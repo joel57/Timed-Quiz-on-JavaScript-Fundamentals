@@ -5,7 +5,7 @@ A timed quiz that test your knowledge on javaScript.
 
 ## Image
 
-Screen Shot 2022-07-28 at 12.12.14 PM.png
+<img src="./assets/images/Quiz_screen_shoot.png">;
 
 
 ### URl Link
